@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Software Engineer specializing in Web develpment.
+
+I am an avid learner of new technologies, I have worked on projects with companies in Nigeria, UK and Canada across varied skill sets spanning Fullstack Web Development, Devops, Ethereum Blockchain and Machine Learning.
+
+- 👯 I’m looking to collaborate on projects in the field of DeFi (or projects solving an interesting problem)
 <!--
 **dumebi/dumebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
